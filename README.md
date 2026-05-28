@@ -18,7 +18,13 @@
 ➡️ [requirements-analysis/](requirements-analysis/)
 
 Фінальний звіт у форматі `.doc` завантажено окремо в Google Classroom.
-У репозиторії розміщено відповіді на питання, скріншоти реалізації та UML-моделі у вигляді зображень.
+
+У цьому репозиторії розміщено:
+
+* відповіді на питання у форматі Markdown;
+* скріншоти реалізації;
+* UML-моделі у вигляді зображень;
+* програмну реалізацію системи «Готель».
 
 ## Відповіді на питання
 
@@ -28,7 +34,7 @@
 4. [Класифікація за системою подання даних](requirements-analysis/pytannia-04-klasyfikatsiia-za-systemoiu-podannia-danykh.md)
 5. [Класифікація за стандартами управління, технологіями комунікації та ступенем автоматизації](requirements-analysis/pytannia-05-klasyfikatsiia-za-standartamy-upravlinnia-i-tekhnolohiiamy-komunikatsii-stupin-avtomatyzatsii.md)
 6. [Рівні та повнота вимог](requirements-analysis/pytannia-06-rivni-ta-povnota-vymoh.md)
-7. [Ясність вимог: недвозначність, визначеність, однозначність специфікацій](requirements-analysis/pytannia-07-yasnist-vymoh-nedvoznachnist-odnoznachnist-spetsyfikatsii.md)
+7. [Ясність вимог: недвозначність, однозначність специфікацій](requirements-analysis/pytannia-07-yasnist-vymoh-nedvoznaсhnist-odnoznachnist-spetsyfikatsii.md)
 8. [Коректність і узгодженість вимог](requirements-analysis/pytannia-08-korektnist-i-uzghodzhenist-vymoh-nesuperechnist.md)
 9. [Верифікація вимог](requirements-analysis/pytannia-09-veryfikatsiia-vymoh-prydatnist-do-perevirky.md)
 10. [Необхідність і корисність при експлуатації вимог](requirements-analysis/pytannia-10-neobkhidnist-i-korysnist-pry-ekspluatatsii-vymoh.md)
@@ -46,7 +52,7 @@
 22. [Специфікація варіанту використання. Вільний формат](requirements-analysis/pytannia-22-spetsyfikatsiia-variantu-vykorystannia-vilnyi-format.md)
 23. [Специфікація варіанту використання. Шаблон повного опису](requirements-analysis/pytannia-23-spetsyfikatsiia-variantu-vykorystannia-shablon-povnoho-opysu.md)
 24. [Специфікація варіанту використання за А. Кобер](requirements-analysis/pytannia-24-spetsyfikatsiia-variantu-vykorystannia-za-a-kober.md)
-25. [Специфікація варіанту використання. Табличні представлення](requirements-analysis/pytannia-25-spetsyfikatsiia-variantu-vykorystannia-tablychni-predstavlennia.md)
+25. [Специфікація варіанту використання. Табличні представлення варіанту використання](requirements-analysis/pytannia-25-spetsyfikatsiia-variantu-vykorystannia-tablychni-predstavlennia.md)
 26. [Актори і варіанти використання](requirements-analysis/pytannia-26-aktory-i-varianty-vykorystannia.md)
 27. [Бачення продукту і межі проєкту](requirements-analysis/pytannia-27-bachennia-produktu-i-mezhi-proektu.md)
 28. [Специфікація функціональних вимог. Атрибути вимог](requirements-analysis/pytannia-28-spetsyfikatsiia-funktsionalnykh-vymoh-atrybuty-vymoh.md)
@@ -76,7 +82,6 @@
 * [Узгодженість бронювання та статусів](requirements-analysis/screenshots/11-consistency-booking-status.png)
 * [Глосарій вимог](requirements-analysis/screenshots/13-glossary-requirements.png)
 * [UML-діаграма варіантів використання](requirements-analysis/screenshots/14-use-case-diagram.png)
-* [Керування номерами](requirements-analysis/screenshots/15-rooms-admin-management.png)
 * [UML-діаграма дій](requirements-analysis/screenshots/16-uml-activity-booking-flow.png)
 * [UML-діаграма станів](requirements-analysis/screenshots/17-uml-state-diagram.png)
 
@@ -110,3 +115,4 @@ node server.js
 ```text
 http://localhost:3000
 ```
+
